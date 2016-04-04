@@ -5,7 +5,7 @@ fuck with your friends bash (fwyfb)
 
 Don't try this at home kids. You'll hate yourself
 and that insanely hilarious friend of yours who
-who gave you this code. Maybe this is an April fools
+gave you this code. Maybe this is an April fools
 joke or a deadly prank for your ex girlfriend or boyfriend
 or maybe you hate those nerds who bang on the keyboards all day
 or.. or... or....... well you decide.
