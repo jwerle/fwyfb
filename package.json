@@ -1,0 +1,9 @@
+{
+  "name": "fuck-with-your-friends-bash",
+  "version": "0.0.1",
+  "description": "Fuck with your friends bash",
+  "global": "1",
+  "install": "install -b fwyfb.sh ${PREFIX:-/usr/local}/bin/fuck-with-your-friends-bash",
+  "scripts": [ "fwyfb.sh" ]
+}
+
