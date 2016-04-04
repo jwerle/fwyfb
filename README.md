@@ -15,6 +15,7 @@ Proceed with caution !
 
 ```sh
 $ bpkg install jwerle/fwyfb
+$ source $(which fwyfb)
 ```
 
 ## Contributing
